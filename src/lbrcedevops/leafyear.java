@@ -7,7 +7,7 @@ public class leafyear {
 		int year = 2020;
 
 	     if (year % 400 == 0)
-	       System.out.println (year + " is a Leap Year");
+	       System.out.println (year + " is a Leap Year hi");
 
 	     else if (year % 4 == 0 && year % 100 != 0)
 	       System.out.println (year + " is a Leap Year eeeeee");
